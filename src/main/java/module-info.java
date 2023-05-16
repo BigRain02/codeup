@@ -3,6 +3,6 @@ module com.example.codeup {
     requires javafx.fxml;
             
                             
-    opens com.example.codeup to javafx.fxml;
-    exports com.example.codeup;
+    opens com.example.algorithm to javafx.fxml;
+    exports com.example.algorithm;
 }
